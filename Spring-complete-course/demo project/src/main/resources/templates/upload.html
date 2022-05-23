@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>Upload</h1>
+<form th:action="@{/uploadFile/{id}(id=${postedId})}" th:object="${studentFile}" method="post">
+<!--    id:<input type="text" th:field="*{id}" readonly />-->
+    Description :<textarea th:field="*{answer}" required="true" rows="20" cols="50"></textarea>
+    <br/>
+    <br/>
+    <button type="submit">Upload</button>
+</form>
+</body>
+</html>

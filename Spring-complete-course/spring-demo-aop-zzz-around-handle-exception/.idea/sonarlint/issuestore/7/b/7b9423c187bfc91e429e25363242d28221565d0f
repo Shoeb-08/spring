@@ -1,0 +1,12 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ë¾‚ê8‡©Šøı/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÈÌ¥†8¥©Šøı/
+[
+java:S1172">Remove these unused method parameters "theAccount", "vipFlag".(Ïã½ê8·©Šøı/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾Ì½òùÿÿÿÿ8º©Šøı/
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(—Ê‘‡8È©Šøı/
+U	java:S106("9Replace this use of System.out or System.err by a logger.(â¹ñâ8Î©Šøı/
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(˜äÿÿÿÿÿ8Õ©Šøı/
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ĞØ”™ıÿÿÿÿ8á©Šøı/
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(Â¼ óøÿÿÿÿ8ç©Šøı/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»¼°Ğ8í©Šøı/

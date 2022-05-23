@@ -1,0 +1,4 @@
+
+
+java:S1319'"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(­ÓÌøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æåÑ©úÿÿÿÿ

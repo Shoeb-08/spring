@@ -1,0 +1,12 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²¡¹Ëıÿÿÿÿ8Şáüõı/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(óĞÚ¾ıÿÿÿÿ8ßáüõı/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Àê€Äøÿÿÿÿ8àáüõı/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ëı¸w8ááüõı/
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Ëî·¤úÿÿÿÿ8»¢Šøı/
+M
+java:S1128"0Remove this unused import 'Demo.dao.AccountDAO'.(ÖŞì±8¼¢Šøı/
+M
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8½¢Šøı/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æåÑ©úÿÿÿÿ8–úõı/

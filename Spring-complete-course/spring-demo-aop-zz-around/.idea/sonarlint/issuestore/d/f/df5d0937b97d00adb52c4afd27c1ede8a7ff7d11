@@ -1,0 +1,13 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(êÚ»îÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•İş°ıÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ÙóÚ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ÑšŸ˜
+N	java:S106."9Replace this use of System.out or System.err by a logger.(Õí¢õ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(™†ûÿÿÿÿ
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(”ù«Ù8ÁÆ‡öı/
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(ß­¾íüÿÿÿÿ8ÂÆ‡öı/
+V	java:S125H"<This block of commented-out lines of code should be removed.(¥îÏşÿÿÿÿ
+g
+java:S1128"ERemove this unused import 'org.aspectj.lang.reflect.MethodSignature'.(÷¨­öÿÿÿÿÿ8©¤Šøı/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßˆ

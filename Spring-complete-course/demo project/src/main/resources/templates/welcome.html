@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <style>
+        body{
+        }
+    </style>
+</head>
+<center>
+    <h1>Welcome....</h1>
+    <br/><br/><br/><br/><br/>
+        <div th:if="${not #lists.isEmpty(assignmentList)}">
+    <table class="table table-striped">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+        </tr>
+        <tr th:each="count : ${assignmentList}">
+            <td th:text="${count.id}"></td>
+            <td th:text="${count.comment}"></td>
+        </tr>
+    </table>
+        </div>
+</center>
+
+</body>
+
+</html>

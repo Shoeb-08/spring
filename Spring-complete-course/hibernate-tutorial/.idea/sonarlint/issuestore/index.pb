@@ -1,0 +1,21 @@
+
+P
+ src/main/java/Demo/TestJdbc.java,e/3/e31d8ddec3b09fadd0ceb15343d95e88e81f3b0a
+O
+src/main/webapp/WEB-INF/web.xml,2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+^
+.src/main/java/Hibernate/CreateStudentDemo.java,0/2/02a2a80cf73af41b3ea7772d3005edaf7c564d00
+[
++src/main/java/Hibernate/PrimaryKeyDemo.java,5/a/5ac0bb5aa0820de3b6a9246d5a96b717b6c55c17
+]
+-src/main/java/Hibernate/QueryStudentDemo.java,d/8/d88cc7ba3c03253d003dcf9b46d477114599cf29
+\
+,src/main/java/Hibernate/ReadStudentDemo.java,1/f/1f81910954368c1f0891a15b44b293457bcd6c8a
+^
+.src/main/java/Hibernate/UpdateStudentDemo.java,8/7/8770423053ce499c6dd946a309ae215aac5f83c2
+^
+.src/main/java/Hibernate/DeleteStudentDemo.java,5/b/5b61c031c8e512d691c4b097315a8b36fddb1185
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+[
++src/main/java/Hibernate/entity/Student.java,7/a/7a392d9b1eb76d458bca4dcebe7844f324c4f2ef

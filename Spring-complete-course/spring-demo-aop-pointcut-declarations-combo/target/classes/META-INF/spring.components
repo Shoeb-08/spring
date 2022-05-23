@@ -1,0 +1,4 @@
+Demo.aopdemo.DemoConfig=org.springframework.stereotype.Component
+Demo.aspect.MyDemoLoggingAspect=org.springframework.stereotype.Component
+Demo.dao.AccountDAO=org.springframework.stereotype.Component
+Demo.dao.MembershipDAO=org.springframework.stereotype.Component

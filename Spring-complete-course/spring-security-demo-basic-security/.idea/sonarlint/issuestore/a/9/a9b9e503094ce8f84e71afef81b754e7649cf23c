@@ -1,0 +1,8 @@
+
+_
+java:S1874"BRemove this use of "withDefaultPasswordEncoder"; it is deprecated.(Ú¨”í8ðÎ‚£þ/
+‚
+java:S1128"eRemove this unused import 'org.springframework.security.config.annotation.web.builders.HttpSecurity'.(ƒµ‹Š8øÎ‚£þ/
+j
+java:S1192"HDefine a constant instead of duplicating this literal "test123" 3 times.(Ù°ÞÊÿÿÿÿÿ8€Ï‚£þ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤•Ôêûÿÿÿÿ

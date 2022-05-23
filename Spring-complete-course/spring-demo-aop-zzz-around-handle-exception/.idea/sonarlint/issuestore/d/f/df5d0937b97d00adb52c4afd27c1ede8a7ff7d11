@@ -1,0 +1,25 @@
+
+z
+java:S2139"XEither log this exception and handle it, or rethrow it with some contextual information.(È‡¿Æüÿÿÿÿ8×ŠÓ÷ý/
+]	java:S125"<This block of commented-out lines of code should be removed.(µ‡¯ìÿÿÿÿÿ8†ÚÒ÷ý/
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(ûñ”£
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(¡ßµã
+R
+java:S2629"7Use the built-in formatting to construct this argument.(Ô·—„üÿÿÿÿ
+R
+java:S2629%"7Use the built-in formatting to construct this argument.(î¹ÅÏüÿÿÿÿ
+R
+java:S2629."7Use the built-in formatting to construct this argument.(Ûí¿úþÿÿÿÿ
+R
+java:S26296"7Use the built-in formatting to construct this argument.(£¤‰Äýÿÿÿÿ
+M
+java:S26298"7Use the built-in formatting to construct this argument.(Øíÿè
+M
+java:S2629A"7Use the built-in formatting to construct this argument.(ñÈ†‚
+L
+java:S2629C"7Use the built-in formatting to construct this argument.(Ïõü
+L
+java:S2629G"7Use the built-in formatting to construct this argument.(‚ÊÇk
+?
+java:S2629a"$Invoke method(s) only conditionally.(…„õÑùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßˆŽ

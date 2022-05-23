@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>Post Assignments</h1>
+<form th:action="@{/saveAssignment}" th:object="${assignment}" method="post">
+
+    Id:              <input type="text" th:field="*{id}" readonly />
+    <br/><br/>
+    Assignment Name: <input type="text" th:field="*{assignmentName}" required="true" />
+    <br/><br/>
+    Description :<textarea type="text" th:field="*{comment}" required="true" rows="20" cols="50"/>
+    <br/>
+    <br/>
+    <button type="submit">Post</button>
+</form>
+</body>
+</html>

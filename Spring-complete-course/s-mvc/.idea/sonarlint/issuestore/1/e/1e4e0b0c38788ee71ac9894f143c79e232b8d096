@@ -1,0 +1,6 @@
+
+O
+java:S1128	"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8÷ğÅàú/
+a
+java:S1192"KDefine a constant instead of duplicating this literal "helloworld" 3 times.(éÑª£
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æåÑ©úÿÿÿÿ

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+.nav-right{
+float:right;
+color: white;
+font-size: 16px;
+text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<ul>
+    <li><a class="active" href="#home">Home</a></li>
+    <li><a href="/assignments">Assignments</a></li>
+    <li><a href="/workarea">Workarea</a></li>
+    <div class="nav-right">
+        <label>Student</label>
+    </div>
+</ul>
+
+<h1 style="margin:auto;" align="center">Assignments</h1>
+<br/><br/>
+    <div th:if="${not #lists.isEmpty(assignmentList)}" >
+        <table class="table table-striped" align="center">
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Upload</th>
+            </tr>
+            <tr th:each="count : ${assignmentList}">
+                <td th:text="${count.assignmentName}"></td>
+                <td th:text="${count.comment}"></td>
+               <td><a th:href="@{/upload/{id}(id=${count.id})}" />Upload</td>
+<!--                <td><input th:field="file" type="file" name="file"  required/></td>-->
+            </tr>
+        </table>
+
+    </div>
+</body>
+</html>
